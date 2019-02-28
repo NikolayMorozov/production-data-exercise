@@ -1,6 +1,6 @@
-Data manipilation excersize
-
+Data manipulation exercise
   
+
 The purpose of the exercise to assess candidates data manipulation capabilities with Oil and Gas upstream domain setting.
 
 The intention is to determine the ability to:
